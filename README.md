@@ -2,7 +2,7 @@
 ##C O M P U T E R E N G I N E E R <br><br>
 _To be able to put in practice of my gained knowledge. To be able to utilize my own strengths and weaknesses. To be effective in maintaining harmony in any kind of people_  <br>
 
-[Email](mailto:mr.akshay.parmar@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/dr5hn/](https://www.linkedin.com/in/akshay-parmar-0218b18a)) | [GitHub](https://github.com/dr5hn/) 
+[Email](mailto:mr.akshay.parmar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dr5hn/](https://www.linkedin.com/in/akshay-parmar-0218b18a)) | [GitHub](https://github.com/dr5hn/) 
 
 ## 👨🏻‍💻 Technical Experience
 
