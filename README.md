@@ -42,7 +42,7 @@ ITNU, Nirma University - Ahmedabad, India _(2015 - 2018))_
 **Diploma** in **Computer Engineering** <br>
 Government Polytechnic , Gujarat Technologycal University - Ahmedabad, India _(2012 - 2015))_
 
-## 👨 CERTIFICATION / ACHIEVEMENTS 
+## ![image](https://user-images.githubusercontent.com/48562260/229313677-466d8dc5-bf15-4872-9236-deb307fab6d7.png) CERTIFICATION / ACHIEVEMENTS 
 **2022 Paper published in Sustainability MDPI Journal.** <br> 
 Title: “Blockchain Adoption to Secure the Food Industry: Opportunities and 
 Challenges” <br><br>
