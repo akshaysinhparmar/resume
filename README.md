@@ -64,12 +64,12 @@ Digital agency focused on providing web services to entrepreneurs.
 	
 ## 👨🏻‍🎓 Education
 
-**Master of Technology : Computer Engineering **<br>
+**Master of Technology** in **Computer Engineering** <br>
 ITNU, Nirma University - Ahmedabad, India _(2018 - 2020)_ <br>
 
-**Bachelor of Technology ** in Computer Engineering <br>
+**Bachelor of Technology** in **Computer Engineering** <br>
 ITNU, Nirma University - Ahmedabad, India _(2015 - 2018))_
 
-**Diploma ** in Computer Engineering <br>
+**Diploma** in **Computer Engineering** <br>
 Government Polytechnic , Gujarat Technologycal University - Ahmedabad, India _(2012 - 2015))_
 
