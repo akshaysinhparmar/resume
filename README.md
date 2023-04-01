@@ -17,7 +17,7 @@ _To be able to put in practice of my gained knowledge. To be able to utilize my 
 
 
 
-## **Projects**
+## ✨ **Projects**
 
 **2021 – Spindle Speed Calculation of lath machine (Application) ** <br>
 Key skills: React native (Mobile application) <br><br>
