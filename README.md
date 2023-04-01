@@ -42,3 +42,13 @@ ITNU, Nirma University - Ahmedabad, India _(2015 - 2018))_
 **Diploma** in **Computer Engineering** <br>
 Government Polytechnic , Gujarat Technologycal University - Ahmedabad, India _(2012 - 2015))_
 
+## 👨 CERTIFICATION / ACHIEVEMENTS 
+**2022 Paper published in Sustainability MDPI Journal.** <br> 
+Title: “Blockchain Adoption to Secure the Food Industry: Opportunities and 
+Challenges” <br><br>
+2022 | **“Introduction to DevOps”** issued by IBM Skills Network from Coursera <br><br>
+2023 | **“Introduction to Containers w/ Docker, Kubernetes & OpenShift”** from  Coursera <br><br>
+2019 | **Gate 2019** Qualified <br><br>
+2012 | **Diploma in Multimedia and animation** from Cohesion Institute. <br><br>
+
+
