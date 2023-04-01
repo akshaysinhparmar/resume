@@ -6,12 +6,12 @@ _To be able to put in practice of my gained knowledge. To be able to utilize my 
 
 ## 👨🏻‍💻 Technical Experience
 
-**2020 – 2022 | Professor / L J University** <br>
+2020 – 2022 | **Professor / L J University** <br>
 	Project: Automation of spindle speed calculation (Learning: React Native) <br>
 	Subject: Internet of Things, Data communication and computer Networks. <br><br>
-**2019 – Teknol India PVT LTD** <br>
+2019 | **Teknol India PVT LTD** <br>
 	Key Skill: Full Stack Development (Angular, NodeJS), Web designing: Bootstrap, HTML, CSS, JS, Photoshop <br><br>
-**2017 – EasilyDone LLP** <br>
+2017 | **EasilyDone LLP** <br>
 	Key Skills: IONIC, Front-end Development (Bootstrap, HTML, CSS, JS, NodeJS) <br>
 	Description: Basic working of IONIC framework, Designing App in IONIC.Made Few Applications in IONIC. Design all front-end part of Application SUPERGROUPS. Build SUPERGROUPS.IO responsive website from the scratch with Dynamic scrolling and Animations. <br><br>
 
@@ -43,7 +43,7 @@ ITNU, Nirma University - Ahmedabad, India <br><br>
 Government Polytechnic , Gujarat Technologycal University - Ahmedabad, India <br><br>
 
 ## 🏆 CERTIFICATION / ACHIEVEMENTS 
-**2022 Paper published in Sustainability MDPI Journal.** <br> 
+2022 | **Paper published in Sustainability MDPI Journal.** <br> 
 Title: “Blockchain Adoption to Secure the Food Industry: Opportunities and 
 Challenges” <br><br>
 2022 | **“Introduction to DevOps”** issued by IBM Skills Network from Coursera <br><br>
