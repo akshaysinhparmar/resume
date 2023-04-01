@@ -47,10 +47,10 @@ Government Polytechnic , Gujarat Technologycal University - Ahmedabad, India <br
 - 2022 | **Paper published in Sustainability MDPI Journal.** <br> 
 Title: “Blockchain Adoption to Secure the Food Industry: Opportunities and 
 Challenges” <br>
-[Paper]()<br><br>
+[Paper](https://www.mdpi.com/2071-1050/14/12/7036/pdf) | [Banner](https://susy.mdpi.com/publication/articler/banner/834336) | <br><br>
 - 2022 | **“Introduction to DevOps”** issued by IBM Skills Network from Coursera <br>
 	[Certificate](https://www.coursera.org/account/accomplishments/certificate/MVWMBYGAELXM)<br><br>
-- - 2023 | **“Introduction to Containers w/ Docker, Kubernetes & OpenShift”** from  Coursera <br>
+- 2023 | **“Introduction to Containers w/ Docker, Kubernetes & OpenShift”** from  Coursera <br>
 	[Certificate](https://www.coursera.org/account/accomplishments/certificate/82MYTKUSEKTL)<br><br>
 - 2023 | **“Introduction to Containers w/ Docker, Kubernetes & OpenShift”** from  Coursera <br>
 	[Certificate](https://www.coursera.org/account/accomplishments/certificate/UL989A9EKGH6)<br>
