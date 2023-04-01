@@ -31,6 +31,7 @@ Description: Basic working of IONIC framework, Designing App in IONIC. Made Few 
 Key Skills: Arduino UNO, MIT app inventor Android, Arduino IDE <br>
 Description: Built an android application with whom we can operate Arduino and Drive Toy Car with the help of Bluetooth and WIFI Module. By this different networking connection modules, we learned.<br><br>
 <br>
+
 ## 👨🏻‍🎓 **Education**
 
 - 2018 - 2020 | **Master of Technology** in **Computer Engineering** <br>
