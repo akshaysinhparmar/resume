@@ -6,14 +6,14 @@ _To be able to put in practice of my gained knowledge. To be able to utilize my 
 
 ## 👨🏻‍💻 Technical Experience
 
-**2020 – 2022 | Professor / L J University **
-	Project: Automation of spindle speed calculation (Learning: React Native) 
-	Subject: Internet of Things, Data communication and computer Networks. 
-**2019 – Teknol India PVT LTD **
-	Key Skill: Full Stack Development (Angular, NodeJS), Web designing: Bootstrap, HTML, CSS, JS, Photoshop 
-**2017 – EasilyDone LLP** 
-	Key Skills: IONIC, Front-end Development (Bootstrap, HTML, CSS, JS, NodeJS) 
-	Description: Basic working of IONIC framework, Designing App in IONIC.Made Few Applications in IONIC. Design all front-end part of Application SUPERGROUPS. Build SUPERGROUPS.IO responsive website from the scratch with Dynamic scrolling and Animations. 
+**2020 – 2022 | Professor / L J University** <br>
+	Project: Automation of spindle speed calculation (Learning: React Native) <br>
+	Subject: Internet of Things, Data communication and computer Networks. <br><br>
+**2019 – Teknol India PVT LTD** <br>
+	Key Skill: Full Stack Development (Angular, NodeJS), Web designing: Bootstrap, HTML, CSS, JS, Photoshop <br><br>
+**2017 – EasilyDone LLP** <br>
+	Key Skills: IONIC, Front-end Development (Bootstrap, HTML, CSS, JS, NodeJS) <br>
+	Description: Basic working of IONIC framework, Designing App in IONIC.Made Few Applications in IONIC. Design all front-end part of Application SUPERGROUPS. Build SUPERGROUPS.IO responsive website from the scratch with Dynamic scrolling and Animations. <br><br>
 
 **Technical Lead** @ [Vistaar Digital Communications Pvt Ltd](https://vistaardigital.com/) _(Feb 2020 - Present)_<br>
 A Service based company serving Digital Services to US Clients & Pharma Industries (India).
