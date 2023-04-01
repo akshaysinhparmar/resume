@@ -46,10 +46,14 @@ Government Polytechnic , Gujarat Technologycal University - Ahmedabad, India <br
 ## 🏆 CERTIFICATION / ACHIEVEMENTS 
 - 2022 | **Paper published in Sustainability MDPI Journal.** <br> 
 Title: “Blockchain Adoption to Secure the Food Industry: Opportunities and 
-Challenges” <br><br>
-- 2022 | **“Introduction to DevOps”** issued by IBM Skills Network from Coursera <br><br>
+Challenges” <br>
+[Paper]()<br><br>
+- 2022 | **“Introduction to DevOps”** issued by IBM Skills Network from Coursera <br>
+	[Certificate](https://www.coursera.org/account/accomplishments/certificate/MVWMBYGAELXM)<br><br>
+- - 2023 | **“Introduction to Containers w/ Docker, Kubernetes & OpenShift”** from  Coursera <br>
+	[Certificate](https://www.coursera.org/account/accomplishments/certificate/82MYTKUSEKTL)<br><br>
 - 2023 | **“Introduction to Containers w/ Docker, Kubernetes & OpenShift”** from  Coursera <br>
-[Certificate](https://www.coursera.org/account/accomplishments/certificate/UL989A9EKGH6)<br>
+	[Certificate](https://www.coursera.org/account/accomplishments/certificate/UL989A9EKGH6)<br>
 - 2019 | **Gate 2019** Qualified <br><br>
 - 2012 | **Diploma in Multimedia and animation** from Cohesion Institute. <br><br>
 
