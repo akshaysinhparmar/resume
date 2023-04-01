@@ -35,11 +35,9 @@ Description: Built an android application with whom we can operate Arduino and D
 ## 👨🏻‍🎓 **Education**
 
 - 2018 - 2020 | **Master of Technology** in **Computer Engineering** <br>
-ITNU, Nirma University - Ahmedabad, India <br><br>
-
+ITNU, Nirma University - Ahmedabad, India 
 - 2015 - 2018 | **Bachelor of Technology** in **Computer Engineering** <br>
-ITNU, Nirma University - Ahmedabad, India <br><br>
-
+ITNU, Nirma University - Ahmedabad, India 
 - 2012 - 2015 | **Diploma** in **Computer Engineering** <br>
 Government Polytechnic , Gujarat Technologycal University - Ahmedabad, India <br><br>
 
@@ -47,14 +45,12 @@ Government Polytechnic , Gujarat Technologycal University - Ahmedabad, India <br
 - 2022 | **Paper published in Sustainability MDPI Journal.** <br> 
 Title: “Blockchain Adoption to Secure the Food Industry: Opportunities and 
 Challenges” <br>
-[Paper](https://www.mdpi.com/2071-1050/14/12/7036/pdf) | [Banner](https://susy.mdpi.com/publication/articler/banner/834336) | <br><br>
+[Paper](https://www.mdpi.com/2071-1050/14/12/7036/pdf) | [Banner](https://susy.mdpi.com/publication/articler/banner/834336) 
 - 2022 | **“Introduction to DevOps”** issued by IBM Skills Network from Coursera <br>
-	[Certificate](https://www.coursera.org/account/accomplishments/certificate/MVWMBYGAELXM)<br><br>
+	[Certificate](https://www.coursera.org/account/accomplishments/certificate/MVWMBYGAELXM)
 - 2023 | **“Introduction to Containers w/ Docker, Kubernetes & OpenShift”** from  Coursera <br>
-	[Certificate](https://www.coursera.org/account/accomplishments/certificate/82MYTKUSEKTL)<br><br>
+	[Certificate](https://www.coursera.org/account/accomplishments/certificate/82MYTKUSEKTL)
 - 2023 | **“Introduction to Containers w/ Docker, Kubernetes & OpenShift”** from  Coursera <br>
-	[Certificate](https://www.coursera.org/account/accomplishments/certificate/UL989A9EKGH6)<br>
-- 2019 | **Gate 2019** Qualified <br><br>
+	[Certificate](https://www.coursera.org/account/accomplishments/certificate/UL989A9EKGH6)
+- 2019 | **Gate 2019** Qualified 
 - 2012 | **Diploma in Multimedia and animation** from Cohesion Institute. <br><br>
-
-
