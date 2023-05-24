@@ -1,6 +1,6 @@
 # Akshay Parmar
 ##C O M P U T E R E N G I N E E R <br><br>
-_To be able to put in practice of my gained knowledge. To be able to utilize my own strengths and weaknesses. To be effective in maintaining harmony in any kind of people_  <br>
+_To be able to put in practice of my gained knowledge. Proficient in DevOps, Cloud and SDLC including analysis, design, coding, scripting, testing, automation, version control, documentation and support._  <br>
 
 [Email](mailto:mr.akshay.parmar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akshay-parmar-0218b18a) | [GitHub](https://github.com/) 
 
